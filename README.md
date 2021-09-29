@@ -5,5 +5,5 @@ The input is a .txt and the output is another .txt that should arrive with none 
 
 We use a AWGN noise, and stablish a source encoder, channel encoder, and 4ASK modulation technique.
 
-To run this program, go to the terminal, cd to the directory, and just write: python3 PhysicalLayerSimulation.py
-Any help or advice johnatan2425@hotmail.com
+Run: python3 PhysicalLayerSimulation.py
+
